@@ -30,3 +30,21 @@
 >  * [Links](https://www.unbc.ca/sites/default/files/sections/web/links.pdf): "[Here goes the word or sentence for the link](Here goes the url)"
 >  * Images: "![Alternative text in case the image is unavailable](Image url)"
 >  * > Block of text: "> This text will be in a block of text"
+
+## **Git Commands**
+
+> * Check Repository Status: "git status"
+> * Add Files:
+>     * Individual File: "git add (filename)"
+>     * All changes: "git add ."
+> * Commit Changes with a Message: "git commit -m "(commit message)"
+> * Push Changes to Remote Repository: "git push origin (branch_name)"
+> * Branch Management:
+>     * Create a branch: "git branch (branch_name)"
+>     * Switch to a branch: "git checkout (branch_name)"
+>     * Create and switch: "git checkout -b (branch_name)"
+>     * List branches: "git branch"
+>     * Delete a branch: "git branch -d (branch_name)"
+> * Rollback Repository to a Previous Commit:
+>     * Soft reset (keep changes staged): "git reset --soft commit_hash"
+>     * Hard reset (discard changes): git reset --hard commit_hash
