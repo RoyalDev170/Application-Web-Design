@@ -28,3 +28,5 @@
 >     * Unordered: "* This text will be in an unordered list"
 >     * Ordered: " 1. This text will be in an ordered list"
 >  * [Links](https://www.unbc.ca/sites/default/files/sections/web/links.pdf): "[Here goes the word or sentence for the link](Here goes the url)"
+>  * Images: "![Alternative text in case the image is unavailable](Image url)"
+>  * > Block of text: "> This text will be in a block of text"
