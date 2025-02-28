@@ -21,8 +21,8 @@
 ## **Markdown Tagging Options:**
 
 > * ##### Headings: "# h1, ## h2, ### h3, #### h4, ##### h5, ###### h6"
-> * **Bold**: "**This text will be in bold **" (No spaces between text and asteriscs)
-> * _Italic_: "_This text will be in italics _" (No spaces between text and underscores)
+> * **Bold**: "**This text will be in bold**" (No spaces between text and asteriscs)
+> * _Italic_: "_This text will be in italics_" (No spaces between text and underscores)
 > * ~~Strikethrough~~ "~~This text will be crossed by a line ~~" (No spaces)
 > * Lists:
 >     * Unordered: "* This text will be in an unordered list"
