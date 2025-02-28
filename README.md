@@ -20,4 +20,11 @@
 
 ## **Markdown Tagging Options:**
 
-> * Headings: "# h1"
+> * ##### Headings: "# h1, ## h2, ### h3, #### h4, ##### h5, ###### h6"
+> * **Bold**: "**This text will be in bold **" (No spaces between text and asteriscs)
+> * _Italic_: "_This text will be in italics _" (No spaces between text and underscores)
+> * ~~Strikethrough~~ "~~This text will be crossed by a line ~~" (No spaces)
+> * Lists:
+>     * Unordered: "* This text will be in an unordered list"
+>     * Ordered: " 1. This text will be in an ordered list"
+>  * [Links](https://www.unbc.ca/sites/default/files/sections/web/links.pdf): "[Here goes the word or sentence for the link](Here goes the url)"
